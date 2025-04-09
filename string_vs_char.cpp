@@ -10,7 +10,7 @@ void getsLength3(char txt[]);
 int main()
 
 {
-    int a;
+    
     string txt="String Datatype";
     char txt2[50]="Character Array";
     
